@@ -8,12 +8,11 @@
 
 <br />
 
-Fala galera, me chamo [Gabriel Carvalho](https://github.com/gamebielo), atualmente trabalho como Dev com C++ e Qt (embora não tenha repositórios sobre hahaha), atualmente estou no último ano estudando "Análise e Desenvolvimento de Sistemas" na [FATEC](https://fatecsjc-prd.azurewebsites.net/).
+Fala galera, me chamo [Gabriel Carvalho](https://github.com/gamebielo), atualmente trabalho como Dev com C++ e Qt (embora não tenha repositórios sobre hahaha), formado em "Análise e Desenvolvimento de Sistemas" pela [FATEC SJC](https://fatecsjc-prd.azurewebsites.net/).
 
 <img align="right" alt="GIF" src="https://github.com/Gamebielo/Gamebielo/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 👨🏽‍💻 Atualmente trabalhando com C++ :wink:;
-- 🌱 Gostando de estudar e aprender sobre VueJs;
+- 👨🏽‍💻 Atualmente trabalhando com C++, Qt e OpenCV :wink:;
 - 📫 Como me encontrar: gabrielcarvalho20@gmail.com;
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
