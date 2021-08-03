@@ -13,7 +13,7 @@ Atualmente trabalho com C#, porém tenho alguns anos de experiência com C++ e Q
 
 <img align="right" alt="GIF" src="https://github.com/Gamebielo/Gamebielo/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 👨🏽‍💻 Atualmente trabalhando com C++, Qt e OpenCV :wink:;
+- 👨🏽‍💻 Atualmente trabalhando com C# :wink:;
 - 📫 Como me encontrar: gabrielcarvalho20@gmail.com;
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
