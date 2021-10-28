@@ -9,11 +9,11 @@
 <br />
 
 Fala galera, me chamo [Gabriel Carvalho](https://github.com/gamebielo), formado em "Análise e Desenvolvimento de Sistemas" pela [FATEC SJC](https://fatecsjc-prd.azurewebsites.net/).
-Atualmente trabalho com C#, porém tenho alguns anos de experiência com C++ e Qt (embora não tenha repositórios sobre hahaha).
+Trabalhando a alguns anos com Qt/C++ para fins de engenharia e inspeção de qualidade (embora não tenha repositórios sobre).
 
 <img align="right" alt="GIF" src="https://github.com/Gamebielo/Gamebielo/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 👨🏽‍💻 Atualmente trabalhando com C# :wink:;
+- 👨🏽‍💻 Atualmente trabalhando com Qt/C++ :wink:;
 - 📫 Como me encontrar: gabrielcarvalho20@gmail.com;
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
