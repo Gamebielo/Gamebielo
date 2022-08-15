@@ -11,8 +11,6 @@
 Fala galera, me chamo [Gabriel Carvalho](https://github.com/gamebielo), formado em "Análise e Desenvolvimento de Sistemas" pela [FATEC SJC](https://fatecsjc-prd.azurewebsites.net/).
 Trabalhando a alguns anos com Qt/C++ para fins de engenharia e inspeção de qualidade (embora não tenha repositórios sobre).
 
-<img align="right" alt="GIF" src="https://github.com/Gamebielo/Gamebielo/blob/main/code.gif?raw=true" width="500" height="320" />
-
 - 👨🏽‍💻 Atualmente trabalhando com Qt/C++ :wink:;
 - 📫 Como me encontrar: gabrielcarvalho20@gmail.com;
 
