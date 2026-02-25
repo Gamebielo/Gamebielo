@@ -12,7 +12,7 @@ Fala galera, me chamo [Gabriel Carvalho](https://github.com/gamebielo), formado 
 Trabalhando a alguns anos com Qt/C++ para fins de engenharia e inspeção de qualidade (embora não tenha repositórios públicos).
 
 - 👨🏽‍💻 Atualmente trabalhando como Lider Técnico e Gestão
-- Principais staks do momento React, TypeScript e Qt/C++ :wink:;
+- Principais stacks do momento React, TypeScript e Qt/C++ :wink:;
 - 📫 Como me encontrar: gabrielcarvalho20@gmail.com;
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,7 +23,4 @@ Trabalhando a alguns anos com Qt/C++ para fins de engenharia e inspeção de qua
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gamebielo&hide=issues,prs&show_icons=true" alt="abhisheknaiidu" />
-
 
